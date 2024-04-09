@@ -1,6 +1,6 @@
 SF1
 
-Something from teh past :)
+Something from the past :)
 
 ![alt tag](https://github.com/landroo/SF1/blob/main/sf1.bmp)
 
