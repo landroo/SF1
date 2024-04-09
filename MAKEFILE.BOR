@@ -1,0 +1,5 @@
+
+
+sf1.exe: sf1.C
+        bcc286 -f- -G -O sf1.c
+
